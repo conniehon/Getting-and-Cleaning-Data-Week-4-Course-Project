@@ -39,6 +39,7 @@ cat("//014")
 
 #to find out what the current directory is
 getwd()
+...
 ```
 
 ### Reading the data
@@ -47,6 +48,7 @@ getwd()
 #read test data
 testvalues <- read.table("./test/X_test.txt", header = FALSE)
 testsubjects <- read.table("./test/subject_test.txt", header = FALSE)
+...
 ```
 
 ### Tidying the data and finally saving the output
