@@ -22,7 +22,7 @@ One document of one variable and its labels.
 
 8. activity_labels.txt
 
-When combined, they formed a total 10,299 observations across 563 variables, from 30 data subjects.
+When combined, they formed a total 10,299 observations across 562 variables, from 30 data subjects.
 
 **Repo commits**
 
