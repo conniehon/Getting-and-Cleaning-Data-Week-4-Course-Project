@@ -28,7 +28,7 @@ When combined, they formed a total 10,299 observations across 563 variables, fro
 
 Subsequently these were tidied, cleaned and summarized into what you see committed to the repo:
 
-1. tidydata.txt (180 observations of 81 variables from 30 data subjects)
+1. tidydata.txt (180 observations of 80 variables from 30 data subjects)
 2. run_analysis.R (code)
 
 **More on the tidied dataset:**
