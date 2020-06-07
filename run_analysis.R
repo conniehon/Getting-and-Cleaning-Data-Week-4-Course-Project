@@ -1,7 +1,7 @@
 ## Step 1. Stage the directory and get the data
 
 #clear console
-cat("//014")
+cat("\014")
 
 #to find out what the current directory is
 getwd()
